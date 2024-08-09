@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\DayInMonth\bin\Debug\net8.0\DayInMonth.exe
+D:\C#\CodeGym\BaiTapC#\DayInMonth\bin\Debug\net8.0\DayInMonth.deps.json
+D:\C#\CodeGym\BaiTapC#\DayInMonth\bin\Debug\net8.0\DayInMonth.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\DayInMonth\bin\Debug\net8.0\DayInMonth.dll
+D:\C#\CodeGym\BaiTapC#\DayInMonth\bin\Debug\net8.0\DayInMonth.pdb
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.dll
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\refint\DayInMonth.dll
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.pdb
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\DayInMonth.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\DayInMonth\obj\Debug\net8.0\ref\DayInMonth.dll
